@@ -1,0 +1,3 @@
+[columns]
+"Business User" = "Chris DeAngelis" # Name of date column, choose false to select it directly in the app.
+"Search Name" = "Elkay Brands" # Name of target column, choose false to select it directly in the app.
