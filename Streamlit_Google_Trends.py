@@ -39,7 +39,7 @@ def google_trend(kw_list, cat=0, timeframe='today 5-y', geo='us', gprop=''):
 # Collect data
 @st.experimental_memo(ttl=600)
 def run_query():
-    temp_dw = ['Donald Trump', 'Football']
+    temp_kw = ['Donald Trump', 'Football']
     data = google_trend(temp_kw, 
                         timeframe = 'today 3-m', 
                         geo='US')
