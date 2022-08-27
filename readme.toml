@@ -1,0 +1,15 @@
+[app]
+app_intro = """
+This app allows you to monitor Google Trends for search words related to Zurn Elkay products and brands. 
+Use the filters on the left side of the page to search by products, brands, or other groups.
+
+To add your data to this report follow these steps:
+* __Download the Excel file__: Go to https://github.com/topherdea/Google_Trends/ and download the XLSX file
+* __Create Your Search__: Add your name, search name, and up to 5 search words. If you have more than 5 words
+just keep adding 5 to each row and copy down your name and search name
+
+Search data is updated each night
+"""
+
+[links]
+repo = "https://github.com/topherdea/Google_Trends/"
