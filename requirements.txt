@@ -1,1 +1,1 @@
-pytrends.request
+pytrends
